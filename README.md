@@ -1,7 +1,7 @@
 # MasCamp.COM
 Marketplace (Aggregator), Discovery, Culture &amp; Community: The Ultimate Carnival Directory Ecosystem.
 
-# About MasCamp.com
+# About
 
 **MasCamp™ — Connecting the World of Carnival.**
 
